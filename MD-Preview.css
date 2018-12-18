@@ -1,0 +1,54 @@
+body {
+    background: #fbf9fa;
+    color: #000;
+    font-family: Meiryo UI;
+    font-size: 16px;
+
+}
+
+/* 見出し */
+.vscode-dark h1 {
+    font-size:24px;
+    border-bottom: none;
+    padding: 0 5px;
+    line-height: 1.5;
+    border-left: solid 5px #9dd4ff;
+}
+
+/* 引用 */
+blockquote {
+    padding: 10px 15px 10px 30px;
+    box-sizing: border-box;
+    font-style: italic;
+    background: #f5f5f5;
+    color: #777777;
+    border-left-color: #9dd4ff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.14);
+}
+
+/* コード */
+code, pre > code {
+    color: #000;
+}
+
+.vscode-dark pre {
+    background-color: rgba(175, 175, 175, 0.4);
+}
+
+/* 水平線 */
+.vscode-dark hr {
+    border-color: #000;
+}
+
+/* テーブル */
+th, td {
+    border: 1px solid #000;
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: #000;
+}
+
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: #000;
+}
