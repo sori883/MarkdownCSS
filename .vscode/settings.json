@@ -1,6 +1,6 @@
 {
   "markdown.styles": [
-    ".//markdown.css"
+    ".//.vscode//markdown.css"
   ],
   "editor.autoIndent": false,
   "editor.tabSize": 2
