@@ -1,3 +1,7 @@
 {
-    "markdown.styles": [".//MD-Preview.css"]
+  "markdown.styles": [
+    ".//markdown.css"
+  ],
+  "editor.autoIndent": false,
+  "editor.tabSize": 2
 }
