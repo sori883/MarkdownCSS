@@ -1,5 +1,7 @@
 # MarkdownCSS
-VS CodeのMarkdownプレビューCSS
 
-会議の議事録とかメモとか用
-
+## 利用用途
+|  フォルダ名  |  用途  |
+| ---- | ---- |
+|  .vscode  |  議事録用  |
+|  typora  |  ブログ用  |
